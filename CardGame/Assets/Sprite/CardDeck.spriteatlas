@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CardDeck
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1189167963, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -185296598, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1670420687, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1990157776, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1181616527, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 17832530, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1573895651, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -2133564305, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1123229526, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -748055637, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -499590354, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1620249678, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 209084088, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1378237374, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1951099677, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -998086976, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 647593482, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -803675553, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 146116389, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1522661722, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1448501215, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1122375284, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -655348778, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -2097221925, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -2094650150, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1758131305, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1516585505, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -386269909, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1483393827, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1541199543, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -2018983062, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1434747304, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -975834019, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 2080435727, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1608536564, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1511555792, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1627967799, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1704765536, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 2067986291, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 187288613, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 854252043, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1184250683, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 112470210, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1994159271, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -2014070107, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1767449703, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1809456347, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1922511572, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -913933626, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -1726616096, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 333737062, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 431588696, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 78549944, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -338287250, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1140685485, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1608090270, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -513962525, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1205439630, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1031607496, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -245222860, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -37156959, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -304217515, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: -724094772, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1250072287, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  - {fileID: 1949964078, guid: 3da0fb6944d46844f95bccedcfc90428, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Card_62
+  - Card_63
+  - Card_60
+  - Card_61
+  - Card_64
+  - Card_59
+  - Card_58
+  - Card_57
+  - Card_56
+  - Card_55
+  - Card_54
+  - Card_53
+  - Card_52
+  - Card_51
+  - Card_50
+  - Card_13
+  - Card_12
+  - Card_0
+  - Card_11
+  - Card_1
+  - Card_10
+  - Card_26
+  - Card_2
+  - Card_17
+  - Card_27
+  - Card_3
+  - Card_16
+  - Card_24
+  - Card_4
+  - Card_15
+  - Card_25
+  - Card_39
+  - Card_5
+  - Card_14
+  - Card_22
+  - Card_38
+  - Card_6
+  - Card_23
+  - Card_7
+  - Card_20
+  - Card_8
+  - Card_19
+  - Card_21
+  - Card_9
+  - Card_18
+  - Card_48
+  - Card_31
+  - Card_49
+  - Card_30
+  - Card_33
+  - Card_28
+  - Card_32
+  - Card_44
+  - Card_29
+  - Card_35
+  - Card_45
+  - Card_34
+  - Card_46
+  - Card_37
+  - Card_47
+  - Card_36
+  - Card_40
+  - Card_41
+  - Card_42
+  - Card_43
+  m_RenderDataMap: {}
+  m_Tag: CardDeck
+  m_IsVariant: 0
